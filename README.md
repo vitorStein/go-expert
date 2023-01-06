@@ -1,2 +1,1 @@
-# go-expert
-:rocket: Golang
+# :rocket: Go
