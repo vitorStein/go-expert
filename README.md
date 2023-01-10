@@ -6,6 +6,10 @@
 Seguindo o Roadmap de [Go Developer](https://roadmap.sh/golang/).  
 Link para o [Roadmap em PDF](https://roadmap.sh/pdfs/golang.pdf)
 
+1. [Learn the Basics](./learn-the-basics/)
+2. [Going Deeper](./going-deeper/)
+3. [Building CLIs](./building-clis/)
+
 
 ## :books: Referências
 

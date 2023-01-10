@@ -1,8 +1,18 @@
 # Fundação da Linguagem Go
 
 
-1. [hello_world.go](./hello_world.go)
+- [hello_world.go](./hello_world.go)
 
-2. [variables.go](./variables.go)
+- [variables.go](./variables.go)
 
-3. [imports.go](./imports.go)
+- [imports.go](./imports.go)
+
+- [arrays.go](./arrays.go)
+
+- [slices.go](./slices.go)
+
+- [maps.go](./maps.go)
+
+- [functions.go](./functions.go)
+
+- [structs.go](./structs.go)
