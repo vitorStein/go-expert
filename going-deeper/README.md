@@ -11,3 +11,5 @@
 5. [Módulos em Go](./go-modules/)
 
 6. [Context](./context/)
+
+7. [Manipulação de Arquivos](./files_handling/)
